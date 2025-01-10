@@ -67,7 +67,7 @@ int main(){
     int b = --a; // pehle update hoga then kaam
 
     cout << " b : " << b << endl;
-    cout << "a : " << a << endl;
+    cout << "a : " << a << endl; 
     return 0; 
 }
 
